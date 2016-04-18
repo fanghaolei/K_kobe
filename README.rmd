@@ -1,0 +1,29 @@
+---
+title: "README"
+author: "Mike"
+date: "April 18, 2016"
+output: html_document
+---
+
+### Quick demonstration of Kobe's shot selections and shooting accuracy. Data from Kaggle's [Kobe Bryant Shot Selection](https://www.kaggle.com/c/kobe-bryant-shot-selection) data set.
+
+#### Plot 1: Kobe's Shot Selection Density: Missed(left), Made(Right) 
+![shot selection](https://raw.githubusercontent.com/fhlgood/K_kobe/master/shot_density.PNG)
+
+#### Plot 2: Kobe's Clutch Time Performance: the final 24 seconds in 4th quarter
+![Clutch](https://raw.githubusercontent.com/fhlgood/K_kobe/master/24s.PNG)
+
+#### Plot 3: Best Clutch! Two-pointers in Away Games 
+![24](https://raw.githubusercontent.com/fhlgood/K_kobe/master/bestClutch.PNG)
+
+#### Plot4: Shooting Performance by Distance from the Rim
+![dist](https://raw.githubusercontent.com/fhlgood/K_kobe/master/sp_distance.PNG)
+
+#### Plot5: Shooting Performance by Quarter
+![q](https://raw.githubusercontent.com/fhlgood/K_kobe/master/sp_period.PNG)
+
+#### Plot6: Shooting Performance over 20 Seasons in Kobe's Career
+![season](https://raw.githubusercontent.com/fhlgood/K_kobe/master/sp_seasons.PNG)
+
+#### Plot7: Shooting in the 4th Quarter by Time Reamining
+![min](https://raw.githubusercontent.com/fhlgood/K_kobe/master/sp_min.PNG)
